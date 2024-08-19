@@ -1,4 +1,4 @@
-# Open API
+# open api
 > Free API's For All
 
 ## nextAPI
