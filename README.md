@@ -7,6 +7,6 @@
 
 ## jsonplaceholder
 #### - Social Media Post API (100 Data) : https://jsonplaceholder.typicode.com/posts
-#### - Web / App User's API  (10 Data ) : https://jsonplaceholder.typicode.com/users
+#### - Web / App User's API  (10 Data) : https://jsonplaceholder.typicode.com/users
 #### - Client's Comments API (500 Data) : https://jsonplaceholder.typicode.com/comments
 #### - Photo's API (5000 Data)          : https://jsonplaceholder.typicode.com/photos
