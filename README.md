@@ -1,7 +1,7 @@
 # open api
 > Free API's For All
 
-## nextAPI
+## nextapi
 
 #### - Food Menu API        (50+ Data)  : https://bistro-server-mu.vercel.app/menu
 #### - Fashion Products API (40 Data)   : https://ul-server-plum.vercel.app/products
